@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "kbd")(type "KiCad")(uri "${KIPRJMOD}/kbd/kicad-footprints/kbd.pretty")(options "")(descr ""))
+  (lib (name "corne-wireless-fp")(type "KiCad")(uri "${KIPRJMOD}/corne-wireless-fp.pretty")(options "")(descr ""))
+)
